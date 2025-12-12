@@ -1,1 +1,1 @@
-# Whitlock-Portfolio.github.io
+# whitlockportfolio.github.io
